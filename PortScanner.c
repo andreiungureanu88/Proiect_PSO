@@ -8,6 +8,7 @@
 #include <pthread.h>
 #include <string.h>
 #include <errno.h>
+#include <fcntl.h>  
 #include <sys/time.h>
 
 #define MAX_PORT 65535
@@ -53,10 +54,18 @@ void* scanPort(void* arg) {
                 if (socketError == 0)
                 {
                     char host[128];
-                    char service[128];
-                    getnameinfo((struct sockaddr *)&temp, sizeof(temp), host, sizeof(host), service, sizeof(service), 0);
-                    printf("[*]Port: %d \t Service: %s\t Open\n", port, service);
-                    //fprintf(logFileDescriptor, "Port: %d, Service: %s, Open\n", port, service);
+                    char service[28];
+                    getnameinfo((struct sockaddr *)&temp, sizeof(temp), host, sizeof(host), service, sizeof(service), 0); 
+
+                    int fd = open("HistoryScan.txt",O_WRONLY | O_APPEND,0644);
+                    char mess[128]; 
+                    snprintf(mess, sizeof(mess), "[*]Port: %d \t Service: %s\t Open\n", port, service);
+                    
+                    ssize_t bytesN= write(fd,mess,strlen(mess));
+                    
+                    printf("[*]Port: %d \t Service: %s\t Open\n", port, service); 
+                    close(fd);
+                    
                 }
             }
         
@@ -99,15 +108,40 @@ void mainFunction(const char* ip_address) {
         thread_index++;
     }
     printf("Scanning ports 0 --> %d for IP address: %s\n", num_threads * ports_per_thread, ip_address);
+    
+    int fd = open("log.txt", O_WRONLY | O_APPEND | O_CREAT, 0644);
+    int fdHistory= open("HistoryScan.txt", O_WRONLY | O_APPEND | O_CREAT, 0644);
 
+    char message[100];
+    snprintf(message, sizeof(message), "Scanning ports 0 --> %d for IP address: %s\n", num_threads * ports_per_thread, ip_address);
+
+    ssize_t bytes_written = write(fd, message, strlen(message));
+    write(fdHistory,"**************************************\n",39); 
+    ssize_t bytes_writtenH = write(fdHistory,message,strlen(message));
+    
+    
     printf("Created %d threads\n", thread_index);
+    char threadsMessage[30]; 
+    snprintf(threadsMessage,sizeof(threadsMessage),"Created %d threads\n",thread_index); 
+
+    ssize_t bytes_Num = write(fdHistory,threadsMessage,strlen(threadsMessage));
+
+    close(fd); 
+    close(fdHistory); write(fdHistory,"**************************************\n",39); 
+
     for (int i = 0; i < num_threads; i++) {
         pthread_join(threads[i], NULL);
     }
 
     time(&endTime);
     double elapsed_secs = difftime(endTime, startTime);
-    printf("Elapsed Seconds: %.2f\n", elapsed_secs);
+    printf("Elapsed Seconds: %.2f\n", elapsed_secs); 
+    char time[50]; 
+    fdHistory= open("HistoryScan.txt", O_WRONLY | O_APPEND | O_CREAT, 0644);
+    snprintf(time,sizeof(time),"Elapsed Seconds: %f\n", elapsed_secs); 
+    write(fdHistory,time,strlen(time)); 
+    write(fdHistory,"**************************************\n",39); 
+    close(fdHistory);
 }
 
 int resolveDomainToIP(const char* domain, char* ip_buffer, size_t ip_buffer_size) {
@@ -132,7 +166,7 @@ int resolveDomainToIP(const char* domain, char* ip_buffer, size_t ip_buffer_size
     
     return 0;
 }
-
+ 
 int main(int argc, char** argv) {
 
 
@@ -142,17 +176,21 @@ int main(int argc, char** argv) {
     } 
     else if (argc == 2)
     {
-     
-        mainFunction(argv[1]);
+        
+        mainFunction(argv[1]);  
+        
          
     } 
     else if(argc == 3) 
     {   
 
         if(strcmp(argv[1],"-dns")==0) 
-        { 
+        {   
+            int fd= open("HistoryScan.txt", O_WRONLY | O_APPEND | O_CREAT, 0644); 
+
             printf("***DOMAIN NAME RESOLUTION***\n"); 
-           
+            write(fd,"***DOMAIN NAME RESOLUTION***\n",29); 
+
             char ip_buffer[INET_ADDRSTRLEN]; // Buffer for the IP address
             
             int len_domain=strlen(argv[2]); 
@@ -162,13 +200,19 @@ int main(int argc, char** argv) {
             strcpy(domain,argv[2]);
             
             if (resolveDomainToIP(domain, ip_buffer, sizeof(ip_buffer) - 1) == 0) {
-            
+
+               char message[100]; 
+               snprintf(message,sizeof(message),"IP address for %s is %s\n", domain, ip_buffer); 
+               write(fd,message,strlen(message));    
                printf("IP address for %s is %s\n", domain, ip_buffer);
+               
                mainFunction(ip_buffer);
+            
             } else {
                printf("Failed to resolve %s to an IP address.\n", domain);
             }
-            
+
+           close (fd);           
 
         }
         
