@@ -1,0 +1,1155 @@
+
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 2000 for IP address: 8.8.8.8
+Created 20 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 853 	 Service: domain-s	 Open
+************************************** 
+**************************************
+Scanning ports 0 --> 2000 for IP address: 8.8.8.8
+Created 10 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 853 	 Service: domain-s	 Open
+Elapsed Seconds: 28.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 100 threads
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 10 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 1.1.1.1
+Created 10 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 46.174.147.16
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.26
+**************************************
+Scanning ports 0 --> 200 for IP address: 46.174.147.26
+Created 2 threads
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.26
+**************************************
+Scanning ports 0 --> 500 for IP address: 46.174.147.26
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.212.215.195
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.212.215.195
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 32.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 1000 for IP address: 192.124.249.79
+Created 10 threads
+Elapsed Seconds: 40.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for youtube.com is 172.217.16.206
+**************************************
+Scanning ports 0 --> 1100 for IP address: 172.217.16.206
+Created 11 threads
+***DOMAIN NAME RESOLUTION***
+IP address for youtube.com is 172.217.16.206
+**************************************
+Scanning ports 0 --> 1000 for IP address: 172.217.16.206
+Created 10 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for youtube.com is 172.217.16.206
+**************************************
+Scanning ports 0 --> 700 for IP address: 172.217.16.206
+Created 7 threads
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for youtube.ro is 142.250.186.46
+**************************************
+Scanning ports 0 --> 800 for IP address: 142.250.186.46
+Created 8 threads
+Elapsed Seconds: 26.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for kaufland.ro is 151.101.3.10
+**************************************
+Scanning ports 0 --> 500 for IP address: 151.101.3.10
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 17.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for bcr.ro is 213.150.17.1
+**************************************
+Scanning ports 0 --> 1000 for IP address: 213.150.17.1
+Created 5 threads
+Elapsed Seconds: 27.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 213.150.17.1
+Created 6 threads
+Elapsed Seconds: 14.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for facebook.com is 185.60.218.35
+**************************************
+Scanning ports 0 --> 1000 for IP address: 185.60.218.35
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 28.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 139.140.1.14
+Created 10 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 7500 for IP address: 1.1.1.1
+Created 15 threads
+[*]Port: 853 	 Service: domain-s	 Open
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 2052 	 Service: 2052	 Open
+[*]Port: 2053 	 Service: 2053	 Open
+[*]Port: 2082 	 Service: 2082	 Open
+[*]Port: 2083 	 Service: 2083	 Open
+[*]Port: 2086 	 Service: gnunet	 Open
+[*]Port: 2087 	 Service: 2087	 Open
+[*]Port: 2095 	 Service: 2095	 Open
+[*]Port: 2096 	 Service: 2096	 Open
+[*]Port: 2052 	 Service: 2052	 Open
+[*]Port: 2053 	 Service: 2053	 Open
+[*]Port: 2082 	 Service: 2082	 Open
+[*]Port: 2083 	 Service: 2083	 Open
+[*]Port: 2086 	 Service: gnunet	 Open
+[*]Port: 2087 	 Service: 2087	 Open
+[*]Port: 2095 	 Service: 2095	 Open
+[*]Port: 2096 	 Service: 2096	 Open
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 14.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.56.204.188
+Created 10 threads
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 500 for IP address: 23.56.204.188
+Created 5 threads
+Elapsed Seconds: 16.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for kaufland.ro is 151.101.195.10
+**************************************
+Scanning ports 0 --> 500 for IP address: 151.101.195.10
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.20
+**************************************
+Scanning ports 0 --> 1000 for IP address: 46.174.147.20
+Created 10 threads
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.31
+**************************************
+Scanning ports 0 --> 100 for IP address: 46.174.147.31
+Created 10 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 10.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.20
+**************************************
+Scanning ports 0 --> 500 for IP address: 46.174.147.20
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 800 for IP address: 192.124.249.79
+Created 8 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 10 threads
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.20
+**************************************
+Scanning ports 0 --> 1000 for IP address: 46.174.147.20
+Created 10 threads
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.212.215.195
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.212.215.195
+Created 10 threads
+Elapsed Seconds: 16.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for kaufland.ro is 151.101.3.10
+**************************************
+Scanning ports 0 --> 1000 for IP address: 151.101.3.10
+Created 10 threads
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 10 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 200 for IP address: 8.8.8.8
+Created 2 threads
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 20.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 1.1.1.1
+Created 10 threads
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 400 for IP address: 1.1.1.1
+Created 4 threads
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 18.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 900 for IP address: 8.8.8.8
+Created 9 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 10 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for kaufland.ro is 151.101.3.10
+**************************************
+Scanning ports 0 --> 500 for IP address: 151.101.3.10
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.212.215.195
+**************************************
+Scanning ports 0 --> 700 for IP address: 23.212.215.195
+Created 7 threads
+Elapsed Seconds: 14.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 86.35.3.191
+**************************************
+Scanning ports 0 --> 500 for IP address: 86.35.3.191
+Created 5 threads
+[*]Port: 110 	 Service: pop3	 Open
+[*]Port: 143 	 Service: imap2	 Open
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 82 	 Service: 82	 Open
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 25.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.56.204.188
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 24.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 500 for IP address: 23.56.204.188
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 13.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.56.204.188
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 27.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 800 for IP address: 23.56.204.188
+Created 8 threads
+Elapsed Seconds: 20.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 8.8.8.8
+Created 6 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 8.8.8.8
+Created 6 threads
+Elapsed Seconds: 15.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 40.000000
+**************************************
+**************************************
+Scanning ports 0 --> 700 for IP address: 8.8.8.8
+Created 7 threads
+Elapsed Seconds: 18.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.56.204.188
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1200 for IP address: 23.56.204.188
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 23.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 600 for IP address: 23.56.204.188
+Created 6 threads
+Elapsed Seconds: 39.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1200 for IP address: 23.56.204.188
+Created 6 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1400 for IP address: 23.56.204.188
+Created 7 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 22.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1400 for IP address: 8.8.8.8
+Created 7 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+**************************************
+Scanning ports 0 --> 700 for IP address: 8.8.8.8
+Created 7 threads
+Elapsed Seconds: 12.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1600 for IP address: 8.8.8.8
+Created 8 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 18.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1600 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 19.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 100 threads
+Elapsed Seconds: 4.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 8.8.8.8
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 8.8.8.8
+Created 6 threads
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 3000 for IP address: 8.8.8.8
+Created 6 threads
+Elapsed Seconds: 50.000000
+**************************************
+**************************************
+Scanning ports 0 --> 2500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 45.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.56.204.188
+**************************************
+Scanning ports 0 --> 1000 for IP address: 23.56.204.188
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 19.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 500 for IP address: 104.83.101.254
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 600 for IP address: 104.83.101.254
+Created 6 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 17.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 8.8.8.8
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 29.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 1.1.1.1
+Created 6 threads
+Elapsed Seconds: 12.000000
+**************************************
+**************************************
+Scanning ports 0 --> 3000 for IP address: 1.1.1.1
+Created 10 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 33.000000
+**************************************
+**************************************
+Scanning ports 0 --> 3000 for IP address: -dns
+Created 15 threads
+Elapsed Seconds: 8.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.17
+**************************************
+Scanning ports 0 --> 4500 for IP address: 46.174.147.17
+Created 15 threads
+Elapsed Seconds: 30.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 1000 for IP address: 46.174.147.22
+Created 5 threads
+[*]Port: 80 	 Service: 	 Open
+Elapsed Seconds: 32.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 800 for IP address: 46.174.147.22
+Created 4 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 25.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 1000 for IP address: 192.124.249.79
+Created 4 threads
+Elapsed Seconds: 25.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 500 for IP address: 192.124.249.79
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 5.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 500 for IP address: 192.124.249.79
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 14.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for facebook.com is 185.60.218.35
+**************************************
+Scanning ports 0 --> 600 for IP address: 185.60.218.35
+Created 4 threads
+Elapsed Seconds: 22.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for facebook.com is 185.60.218.35
+**************************************
+Scanning ports 0 --> 500 for IP address: 185.60.218.35
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 12.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for kaufland.ro is 151.101.67.10
+**************************************
+Scanning ports 0 --> 500 for IP address: 151.101.67.10
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 8.8.8.8
+Created 6 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 400 for IP address: 8.8.8.8
+Created 100 threads
+Elapsed Seconds: 3.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 1.1.1.1
+Created 6 threads
+Elapsed Seconds: 20.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+Elapsed Seconds: 12.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 12.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 1.1.1.1
+Created 6 threads
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 853 	 Service: domain-s	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 19.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 1000 for IP address: 46.174.147.22
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 1050 for IP address: 46.174.147.22
+Created 7 threads
+Elapsed Seconds: 19.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 900 for IP address: 46.174.147.22
+Created 6 threads
+Elapsed Seconds: 18.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 750 for IP address: 46.174.147.22
+Created 5 threads
+Elapsed Seconds: 16.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 750 for IP address: 46.174.147.22
+Created 5 threads
+Elapsed Seconds: 18.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.21
+**************************************
+Scanning ports 0 --> 500 for IP address: 46.174.147.21
+Created 5 threads
+Elapsed Seconds: 10.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 14.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 700 for IP address: 1.1.1.1
+Created 7 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 1.1.1.1
+Created 4 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 23.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.22
+**************************************
+Scanning ports 0 --> 1200 for IP address: 46.174.147.22
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.17
+**************************************
+Scanning ports 0 --> 750 for IP address: 46.174.147.17
+Created 5 threads
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 10.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 500 for IP address: 104.83.101.254
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 1000 for IP address: 192.124.249.79
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 21.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 1500 for IP address: 192.124.249.79
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 28.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 2000 for IP address: 192.124.249.79
+Created 20 threads
+Elapsed Seconds: 16.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for mta.ro is 192.124.249.79
+**************************************
+Scanning ports 0 --> 150000 for IP address: 192.124.249.79
+Created 1000 threads
+Elapsed Seconds: 48.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: 	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 26.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 8.8.8.8
+Created 6 threads
+[*]Port: 80 	 Service: 	 Open
+Elapsed Seconds: 32.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 8.8.8.8
+Created 6 threads
+[*]Port: 443 	 Service: 	 Open
+[*]Port: 80 	 Service: 	 Open
+Elapsed Seconds: 32.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.20
+**************************************
+Scanning ports 0 --> 500 for IP address: 46.174.147.20
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 17.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.16
+**************************************
+Scanning ports 0 --> 1200 for IP address: 46.174.147.16
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 23.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+***DOMAIN NAME RESOLUTION***
+IP address for facebook.com is 185.60.218.35
+**************************************
+Scanning ports 0 --> 1200 for IP address: 185.60.218.35
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 22.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for facebook.com is 185.60.218.35
+**************************************
+Scanning ports 0 --> 1200 for IP address: 185.60.218.35
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 23.210.120.251
+**************************************
+Scanning ports 0 --> 2100 for IP address: 23.210.120.251
+Created 7 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 31.000000
+**************************************
+**************************************
+Scanning ports 0 --> 2100 for IP address: 1.1.1.1
+Created 7 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 30.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 1.1.1.1
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 22.000000
+**************************************
+**************************************
+Scanning ports 0 --> 2100 for IP address: 1.1.1.1
+Created 7 threads
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 30.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 1.1.1.1
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 23.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 10.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1200 for IP address: 8.8.8.8
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 26.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.29
+**************************************
+Scanning ports 0 --> 1200 for IP address: 46.174.147.29
+Created 6 threads
+[*]Port: 443 	 Service: https	 Open
+Elapsed Seconds: 34.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 100 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 9.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1000 for IP address: 1.1.1.1
+Created 100 threads
+[*]Port: 53 	 Service: 	 Open
+[*]Port: 443 	 Service: 	 Open
+[*]Port: 853 	 Service: 	 Open
+Elapsed Seconds: 16.000000
+**************************************
+**************************************
+Scanning ports 0 --> 1500 for IP address: 1.1.1.1
+Created 15 threads
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.16
+**************************************
+Scanning ports 0 --> 2000 for IP address: 46.174.147.16
+Created 10 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 39.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 46.174.147.19
+**************************************
+Scanning ports 0 --> 800 for IP address: 46.174.147.19
+Created 8 threads
+Elapsed Seconds: 16.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for emag.ro is 45.56.79.23
+**************************************
+Scanning ports 0 --> 1000 for IP address: 45.56.79.23
+Created 10 threads
+Elapsed Seconds: 21.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 500 for IP address: 104.83.101.254
+Created 5 threads
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 300 for IP address: 104.83.101.254
+Created 3 threads
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 500 for IP address: 104.83.101.254
+Created 5 threads
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 500 for IP address: 104.83.101.254
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 1000 for IP address: 104.83.101.254
+Created 5 threads
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 24.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 104.83.101.254
+**************************************
+Scanning ports 0 --> 600 for IP address: 104.83.101.254
+Created 6 threads
+Elapsed Seconds: 15.000000
+**************************************
+***DOMAIN NAME RESOLUTION***
+IP address for lidl.ro is 45.33.2.79
+**************************************
+Scanning ports 0 --> 500 for IP address: 45.33.2.79
+Created 5 threads
+Elapsed Seconds: 18.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 8.8.8.8
+Created 5 threads
+[*]Port: 443 	 Service: https	 Open
+[*]Port: 53 	 Service: domain	 Open
+Elapsed Seconds: 13.000000
+**************************************
+**************************************
+Scanning ports 0 --> 800 for IP address: 8.8.8.8
+Created 8 threads
+Elapsed Seconds: 19.000000
+**************************************
+**************************************
+Scanning ports 0 --> 700 for IP address: 1.1.1.1
+Created 7 threads
+Elapsed Seconds: 12.000000
+**************************************
+**************************************
+Scanning ports 0 --> 500 for IP address: 1.1.1.1
+Created 5 threads
+Elapsed Seconds: 11.000000
+**************************************
+**************************************
+Scanning ports 0 --> 100 for IP address: 1.1.1.1
+Created 1 threads
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 18.000000
+**************************************
+**************************************
+Scanning ports 0 --> 200 for IP address: 1.1.1.1
+Created 2 threads
+[*]Port: 53 	 Service: domain	 Open
+[*]Port: 80 	 Service: http	 Open
+Elapsed Seconds: 20.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 1.1.1.1
+Created 200 threads
+Elapsed Seconds: 4.000000
+**************************************
+**************************************
+Scanning ports 0 --> 600 for IP address: 1.1.1.1
+Created 3 threads
+Elapsed Seconds: 24.000000
+**************************************
