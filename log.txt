@@ -1,0 +1,56 @@
+Scanning for IP 8.8.8.8 
+Scanning for IP 8.8.8.8 
+Default scanning for IP 8.8.8.8 
+Default scanning for IP 8.8.8.8 
+Domanin name scanning for IP emag.ro 
+Domanin name scanning for domain emag.ro 
+Domanin name scanning for domain emag.ro 
+Scanning most common ports for IP 192.124.249.79 -> domain mta.ro 
+Scanning most common ports for IP 45.33.32.156 -> domain scanme.nmap.org 
+Scanning most common ports for IP 8.8.8.8 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 46.174.147.31 -> domain emag.ro 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 1.1.1.1 
+Scanning most common ports for IP 46.174.147.21 -> domain emag.ro 
+Scanning most common ports for IP 192.124.249.79 -> domain mta.ro 
+Scanning most common ports for IP 192.124.249.79 -> domain mta.ro 
+Scanning most common ports for IP 2.20.117.45 -> domain lidl.ro 
+All ports scanning for IP lidl.ro 
+All ports scanning for IP 1.1.1.1 
+Scanning most common ports for IP 72.14.178.174 -> domain lidl.ro 
+Scanning most common ports for IP 46.174.147.30 -> domain emag.ro 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 1.1.1.1 
+Scanning most common ports for IP 46.174.147.18 -> domain emag.ro 
+Domanin name scanning for domain emag.ro 
+Domanin name scanning for domain emag.ro 
+Domanin name scanning for domain lidl.ro 
+Scanning most common ports for IP 8.8.8.8 
+Default scanning for IP 8.8.8.8 
+Scanning most common ports for IP 8.8.8.8 
+Default scanning for IP 1.1.1.1 
+Domanin name scanning for domain google.com 
+Scanning most common ports for IP 8.8.8.8 
+Scanning most common ports for IP 192.124.249.79 -> domain mta.ro 
+All ports scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Domanin name scanning for domain emag.ro 
+Scanning most common ports for IP 8.8.8.8 
+Scanning most common ports for IP 192.124.249.79 -> domain mta.ro 
+Scanning most common ports for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 46.174.147.23 -> domain emag.ro 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 46.174.147.25 -> domain emag.ro 
+Scanning most common ports for IP 1.1.1.1 -> domain 1.1.1.1 
+Scanning most common ports for IP 1.1.1.1 -> domain 1.1.1.1 
+Scanning most common ports for IP 1.1.1.1 -> domain 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Scanning most common ports for IP 1.1.1.1 
