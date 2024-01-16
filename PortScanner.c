@@ -236,7 +236,6 @@ void *scanCommonUDP(void *arg) {
             continue;
         }
 
-        // Încercare de conectare la port
         if (connect(connection, (struct sockaddr *)&temp, sizeof(temp)) == -1) {
             if (errno == EINPROGRESS) {
                 fd_set writeSet;
@@ -244,10 +243,10 @@ void *scanCommonUDP(void *arg) {
                 FD_SET(connection, &writeSet);
 
                 struct timeval timeout;
-                timeout.tv_sec = 1; // Timpul în secunde
-                timeout.tv_usec = 0; // Timpul în microsecunde
+                timeout.tv_sec = 1; 
+                timeout.tv_usec = 0; 
 
-                // Verificare dacă conectarea a reușit
+            
                 if (select(connection + 1, NULL, &writeSet, NULL, &timeout) > 0) {
                     int socketError = 0;
                     socklen_t socketErrorLength = sizeof(socketError);
@@ -362,15 +361,7 @@ void scan_domain(char *Domain)
     }
 }
 
-void setupEnvironment() 
-{   
 
-}
-
-void finishScanApp() 
-{ 
-    //fclose(flog);
-}
 
 void get_local_ip(char *ip_buffer) {
     struct ifaddrs *ifap, *ifa;
@@ -419,7 +410,7 @@ void xmas_scan(const char *target_ip, int start_port, int end_port) {
     ip_header.saddr = inet_addr(source_ip);  
     ip_header.daddr = inet_addr(target_ip);
 
-    // Setarea timeout-ului pentru primirea răspunsului
+  
     struct timeval timeout;
     timeout.tv_sec = TIMEOUT;
     timeout.tv_usec = 0;
@@ -431,7 +422,7 @@ void xmas_scan(const char *target_ip, int start_port, int end_port) {
     for (int port = start_port; port <= end_port; ++port) {
         target_addr.sin_port = htons(port);
 
-        // Configurare antet TCP
+        
         tcp_header.source = htons(SOURCE_PORT);
         tcp_header.dest = htons(port);
         tcp_header.fin = 1;  

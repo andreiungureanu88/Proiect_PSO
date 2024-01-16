@@ -60,17 +60,9 @@ int main(int argc, char **argv)
             scanMostCommonPorts(domain, 0);
         } 
 
-        if (strcmp(argv[1],"-udp") == 0) 
-        { 
-            int len_domain = strlen(argv[2]);
-            char *domain = (char *)malloc(len_domain);
-            strcpy(domain, argv[2]);
-            scanMostCommonPorts(domain, 1);
-        }
     }
     else if (argc == 4)
     {
-        printf("dasdad");
         if ((strcmp(argv[1], "-dns") == 0 && strcmp(argv[2], "-i") == 0 ) 
             || (strcmp(argv[2], "-dns") == 0 && strcmp(argv[1], "-i") == 0 ))
         {
@@ -98,18 +90,15 @@ int main(int argc, char **argv)
     }
     else if(argc == 5)
     { 
-        printf("dasdad");
         if(strcmp(argv[1],"-sX") == 0 ) 
         {  
-            printf("dasdad");
+            
             const char *target_ip = argv[2];
             int start_port = atoi(argv[3]);
             int end_port = atoi(argv[4]);
             xmas_scan(target_ip, start_port, end_port);
         }
     }
-
-    finishScanApp();
 
     return 0;
 }

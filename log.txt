@@ -54,3 +54,8 @@ Default scanning for IP 1.1.1.1
 Default scanning for IP 1.1.1.1 
 Default scanning for IP 1.1.1.1 
 Scanning most common ports for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Default scanning for IP 1.1.1.1 
+Domanin name scanning for domain emag.ro 
+Scanning most common ports for IP 8.8.8.8 
+Scanning most common ports for IP 23.56.204.188 -> domain lidl.ro 

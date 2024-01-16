@@ -58,10 +58,6 @@ void scanMostCommonPorts(char *ipAddress, int flag);
 
 void scan_domain(char *Domain);
 
-void setupEnvironment();
-
-void finishScanApp();
-
 void get_local_ip(char *ip_buffer);
 
 void xmas_scan(const char *target_ip, int start_port, int end_port);
